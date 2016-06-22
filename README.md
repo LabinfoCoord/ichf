@@ -1,2 +1,2 @@
 # ichf
-Sítio do ICHF
+Sítio do ICHF: Testes para avaliação de um novo sítio responsivo.
